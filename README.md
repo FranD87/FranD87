@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I'm an aspiring python backend developer currently studying at DCI. I've built a warehouse project and I'm currently working on a project management tool application.
+I'm an aspiring python backend developer currently studying at DCI. I've built a warehouse project and I'm currently working on building a project management tool application.
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [fdunne007@gmail.com](mailto:fdunne007@gmail.com)
