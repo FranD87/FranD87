@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fran
 ============================================================================================================================
 
-Backend Developer
+Backend Developer Apprentice
 -----------------
 
 At present, I'm an aspiring python backend developer studying at DCI. Along with my studies I've built a warehouse project and I'm currently working on building a project management tool application.
