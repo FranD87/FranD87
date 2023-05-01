@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer Apprentice
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-At present, I'm an aspiring python backend developer studying at DCI. Along with my studies I've built a warehouse project and I'm currently working on building a project management tool application. I also carry a skillset for drafting electrical blueprints with AutoCad, specializing in smart lighting and firealarm systems. As a photographer/videographer enthusiast I hold a good knowledge of Adobe Premiere Pro, Photoshop and Lightroom. I look forward to collaberating with you on future projects.
+At present, I'm an aspiring python backend developer studying at DCI. Along with my studies I've built a warehouse project and I'm currently working on building a project management tool application. I also carry a skillset for drafting electrical blueprints with AutoCad, specializing in smart lighting and firealarm systems. As a photographer/videographer enthusiast, I hold a good knowledge of Adobe Premiere Pro, Photoshop and Lightroom. I look forward to collaberating with you on future projects.
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [fdunne007@gmail.com](mailto:fdunne007@gmail.com)
