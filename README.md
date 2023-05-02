@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 class Backend_Developer_Apprentice(😊)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-At present, I'm an aspiring python backend developer studying at Digital Career Institute. Along with my studies I've built a warehouse project and I'm currently working on building a project management tool application. As a developed electrical project manager, I hold sound expertise drafting electrical blueprints with AutoCad/BIM in 2D and 3D format. Specializing mainly in smart lighting ("Lutron"), security and firealarm systems. While being a photographer/videographer enthusiast, I hold In-depth knowledge of Adobe Premiere Pro, Photoshop and Lightroom. I anticipate the chance to collaberate with you on upcoming projects. For now 📎:
+At present, I'm an aspiring python backend developer studying at Digital Career Institute. Along with my studies I've built a warehouse project and I'm currently working on building a project management tool application. As a developed electrical project manager, I hold sound expertise drafting electrical blueprints with AutoCad/BIM in 2D and 3D format. Specializing mainly in smart lighting, security and firealarm systems. While being a photographer/videographer enthusiast, I hold In-depth knowledge of Adobe Premiere Pro, Photoshop and Lightroom. I anticipate the chance to collaberate with you on upcoming projects. For now 📎:
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [FranD87.info@gmail.com](mailto:FranD87.info@gmail.com)
