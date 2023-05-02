@@ -8,7 +8,7 @@ At present, I'm an aspiring python backend developer studying at Digital Career 
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [FranD87.info@gmail.com](mailto:FranD87.info@gmail.com)
-* 🧠  I'm learning Python, SQL & Django
+* 🧠  I'm learning Python, PostgreSQL & Django
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/FranD87" target="_blank" rel="noreferrer"><img
