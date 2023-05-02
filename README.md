@@ -14,6 +14,10 @@ At present, I'm an aspiring python backend developer studying at Digital Career 
 <a href="https://www.github.com/FranD87" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FranD87?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+### Socials
+
+<p align="left"> <a href="https://www.github.com/FranD87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fran-d-37984a265" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/user20646033" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 ### Skills
 
 
