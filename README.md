@@ -1,10 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fran
 ============================================================================================================================
 
-class Backend_Developer_Apprentice(😊)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-At present, I'm an aspiring python backend developer studying at Digital Career Institute. Along with my studies I've built a warehouse project and I'm currently working on building a project management tool application. As a developed electrical project manager, I hold sound expertise drafting electrical blueprints with AutoCad/BIM in 2D and 3D format. While being a photographer/videographer enthusiast, I hold In-depth knowledge of Adobe Premiere Pro, Photoshop and Lightroom. I anticipate the chance to collaberate with you on upcoming projects. For now 📎:
+👋 Hey there! I'm a passionate cybersecurity enthusiast currently diving into the world of ethical hacking through Zero to Mastery's bootcamp and honing my skills with the Google Cybersecurity Professional Certificate. Previously, I completed a rigorous year-long Python development course with DCI, fueling my love for programming. 💻
+
+🔍 My interests revolve around cybersecurity, Python development, and exploring the endless possibilities of ethical hacking. I'm constantly seeking new challenges and learning opportunities in the realm of cybersecurity and software development.
+
+🛠️ When I'm not deciphering vulnerabilities or crafting Python solutions, you can find me contributing to open-source projects, experimenting with new technologies, or sharing insights and resources related to cybersecurity and ethical hacking.
+
+🚀 Let's connect and collaborate on exciting projects or simply geek out about cybersecurity and coding! Feel free to explore my repositories and drop a line. Happy hacking! 🎩🔒
+ I anticipate the chance to collaberate with you on upcoming projects. For now 📎:
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [FranD87.info@gmail.com](mailto:FranD87.info@gmail.com)
