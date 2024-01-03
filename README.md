@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [FranD87.info@gmail.com](mailto:FranD87.info@gmail.com)
-* 🧠  I'm learning Python, PostgreSQL, Django, Django_Rest_Framework & AWS
+* 🧠  I'm learning Kali, Chronicle, Wireshark, Python, PostgreSQL, Django, Django_Rest_Framework & AWS
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/FranD87" target="_blank" rel="noreferrer"><img
